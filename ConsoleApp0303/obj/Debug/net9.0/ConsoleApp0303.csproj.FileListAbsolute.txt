@@ -1,0 +1,38 @@
+C:\Users\ЕгрPC\source\repos\ConsoleApp0303\ConsoleApp0303\bin\Debug\net9.0\ConsoleApp0303.exe
+C:\Users\ЕгрPC\source\repos\ConsoleApp0303\ConsoleApp0303\bin\Debug\net9.0\ConsoleApp0303.deps.json
+C:\Users\ЕгрPC\source\repos\ConsoleApp0303\ConsoleApp0303\bin\Debug\net9.0\ConsoleApp0303.runtimeconfig.json
+C:\Users\ЕгрPC\source\repos\ConsoleApp0303\ConsoleApp0303\bin\Debug\net9.0\ConsoleApp0303.dll
+C:\Users\ЕгрPC\source\repos\ConsoleApp0303\ConsoleApp0303\bin\Debug\net9.0\ConsoleApp0303.pdb
+C:\Users\ЕгрPC\source\repos\ConsoleApp0303\ConsoleApp0303\obj\Debug\net9.0\ConsoleApp0303.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕгрPC\source\repos\ConsoleApp0303\ConsoleApp0303\obj\Debug\net9.0\ConsoleApp0303.AssemblyInfoInputs.cache
+C:\Users\ЕгрPC\source\repos\ConsoleApp0303\ConsoleApp0303\obj\Debug\net9.0\ConsoleApp0303.AssemblyInfo.cs
+C:\Users\ЕгрPC\source\repos\ConsoleApp0303\ConsoleApp0303\obj\Debug\net9.0\ConsoleApp0303.csproj.CoreCompileInputs.cache
+C:\Users\ЕгрPC\source\repos\ConsoleApp0303\ConsoleApp0303\obj\Debug\net9.0\ConsoleApp0303.dll
+C:\Users\ЕгрPC\source\repos\ConsoleApp0303\ConsoleApp0303\obj\Debug\net9.0\refint\ConsoleApp0303.dll
+C:\Users\ЕгрPC\source\repos\ConsoleApp0303\ConsoleApp0303\obj\Debug\net9.0\ConsoleApp0303.pdb
+C:\Users\ЕгрPC\source\repos\ConsoleApp0303\ConsoleApp0303\obj\Debug\net9.0\ConsoleApp0303.genruntimeconfig.cache
+C:\Users\ЕгрPC\source\repos\ConsoleApp0303\ConsoleApp0303\obj\Debug\net9.0\ref\ConsoleApp0303.dll
+C:\Users\ЕгрPC\source\repos\ConsoleApp0303\ConsoleApp0303\bin\Debug\net9.0\Microsoft.Graph.Beta.dll
+C:\Users\ЕгрPC\source\repos\ConsoleApp0303\ConsoleApp0303\bin\Debug\net9.0\Microsoft.Graph.Core.dll
+C:\Users\ЕгрPC\source\repos\ConsoleApp0303\ConsoleApp0303\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\ЕгрPC\source\repos\ConsoleApp0303\ConsoleApp0303\obj\Debug\net9.0\ConsoleApp0303.csproj.AssemblyReference.cache
+C:\Users\ЕгрPC\source\repos\ConsoleApp0303\ConsoleApp0303\obj\Debug\net9.0\ConsoleA.91AA3197.Up2Date
+C:\Users\имя\Desktop\Новая папка\ConsoleApp0303\bin\Debug\net9.0\ConsoleApp0303.exe
+C:\Users\имя\Desktop\Новая папка\ConsoleApp0303\bin\Debug\net9.0\ConsoleApp0303.deps.json
+C:\Users\имя\Desktop\Новая папка\ConsoleApp0303\bin\Debug\net9.0\ConsoleApp0303.runtimeconfig.json
+C:\Users\имя\Desktop\Новая папка\ConsoleApp0303\bin\Debug\net9.0\ConsoleApp0303.dll
+C:\Users\имя\Desktop\Новая папка\ConsoleApp0303\bin\Debug\net9.0\ConsoleApp0303.pdb
+C:\Users\имя\Desktop\Новая папка\ConsoleApp0303\bin\Debug\net9.0\Microsoft.Graph.Beta.dll
+C:\Users\имя\Desktop\Новая папка\ConsoleApp0303\bin\Debug\net9.0\Microsoft.Graph.Core.dll
+C:\Users\имя\Desktop\Новая папка\ConsoleApp0303\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\имя\Desktop\Новая папка\ConsoleApp0303\obj\Debug\net9.0\ConsoleApp0303.csproj.AssemblyReference.cache
+C:\Users\имя\Desktop\Новая папка\ConsoleApp0303\obj\Debug\net9.0\ConsoleApp0303.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\имя\Desktop\Новая папка\ConsoleApp0303\obj\Debug\net9.0\ConsoleApp0303.AssemblyInfoInputs.cache
+C:\Users\имя\Desktop\Новая папка\ConsoleApp0303\obj\Debug\net9.0\ConsoleApp0303.AssemblyInfo.cs
+C:\Users\имя\Desktop\Новая папка\ConsoleApp0303\obj\Debug\net9.0\ConsoleApp0303.csproj.CoreCompileInputs.cache
+C:\Users\имя\Desktop\Новая папка\ConsoleApp0303\obj\Debug\net9.0\ConsoleA.91AA3197.Up2Date
+C:\Users\имя\Desktop\Новая папка\ConsoleApp0303\obj\Debug\net9.0\ConsoleApp0303.dll
+C:\Users\имя\Desktop\Новая папка\ConsoleApp0303\obj\Debug\net9.0\refint\ConsoleApp0303.dll
+C:\Users\имя\Desktop\Новая папка\ConsoleApp0303\obj\Debug\net9.0\ConsoleApp0303.pdb
+C:\Users\имя\Desktop\Новая папка\ConsoleApp0303\obj\Debug\net9.0\ConsoleApp0303.genruntimeconfig.cache
+C:\Users\имя\Desktop\Новая папка\ConsoleApp0303\obj\Debug\net9.0\ref\ConsoleApp0303.dll
